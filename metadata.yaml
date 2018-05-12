@@ -1,0 +1,32 @@
+_repo: The-Hero_27063
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maugham, W. Somerset (William Somerset)
+    aliases:
+    - Maugham, Somerset
+    - Maugham, William Somerset
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '126'
+    url: http://www.gutenberg.org/2009/agents/126
+    wikipedia: http://en.wikipedia.org/wiki/W._Somerset_Maugham
+description: ''
+gutenberg_issued: '2008-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27063'
+  lccn: '77019640'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Social life and customs -- 20th century -- Fiction'
+title: The Hero
+url: http://www.gutenberg.org/ebooks/27063
